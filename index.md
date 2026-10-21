@@ -1,14 +1,14 @@
 ## About me
 
-Hi, I'm **Gao Lirongyue**, a student at the University of Macau learning data science. I like questions that come from the place I live, such as how Macau's casinos and tourism are changing. I care about turning data into charts that someone who is not a statistician can read in under a minute.
+Hi, I'm **Gao Lirongyue**, a student at the University of Macau learning data science. I like questions that come from the place I live and study now, such as how Macau's casinos and tourism are changing. I care about turning data into charts that someone who is not a statistician can read in under a minute.
 
 ## Technical skills
 
 - **Programming:** Python, Jupyter Notebook
-- **Data wrangling and analysis:** pandas, NumPy (cleaning, missing values, indexing, correlation)
-- **Visualisation:** matplotlib, seaborn (explanatory charts with a clear takeaway)
+- **Data wrangling and analysis:** pandas, NumPy
+- **Visualisation:** matplotlib, seaborn 
 - **Modelling:** scikit-learn (linear, polynomial and ridge regression; train/test split, cross-validation, grid search)
-- **Tools:** Git and GitHub, GitHub Pages
+- **Tools:** Git and GitHub
 
 ---
 
